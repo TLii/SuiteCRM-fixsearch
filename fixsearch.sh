@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #    Copyright 2020 Tuomas Liinamaa <tlii@iki.fi>, https://surosy.com
 
